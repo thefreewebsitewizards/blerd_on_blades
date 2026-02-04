@@ -386,6 +386,15 @@ body {
     gap: 3rem;
 }
 
+.about-gallery {
+    max-width: 1200px;
+    margin: 3rem auto 0;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
 .about-image {
     flex-shrink: 0;
 }
